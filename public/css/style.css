@@ -1,3 +1,8 @@
 #portfolio {
   background-color: #333;
 }
+span.gc-cs-link {
+    color: inherit;
+    text-decoration: none;
+    cursor: inherit;
+}

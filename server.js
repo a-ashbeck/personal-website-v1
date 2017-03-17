@@ -3,10 +3,7 @@ var express = require('express');
 
 // Server setup variables
 var app = express();
-var port = process.env.PORT || 3000;
-
-// Set app to listen to the port defined above
-app.listen(port);
+var PORT = process.env.PORT || 3000;
 
 // Serve static content for the app from the "public" directory in the application directory.
 app.use(express.static(__dirname + '/public'));
