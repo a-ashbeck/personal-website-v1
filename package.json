@@ -1,11 +1,13 @@
 {
-  "name": "Alan Ashbeck Website",
+  "name": "personal-website-v1",
   "version": "1.0.0",
+  "description": "Personal website for Alan W. Ashbeck",
   "author": "Alan W. Ashbeck",
   "license": {
     "type": "MIT",
     "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
   },
+  "homepage": "https://github.com/a-ashbeck/personal-website-v1#readme",
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "browser-sync": "^2.13.0",
